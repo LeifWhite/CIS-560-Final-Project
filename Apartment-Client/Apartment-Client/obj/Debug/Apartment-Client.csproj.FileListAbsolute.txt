@@ -1,0 +1,20 @@
+D:\Users\spenc\source\repos\Apartment-Client\Apartment-Client\bin\Debug\Apartment-Client.exe.config
+D:\Users\spenc\source\repos\Apartment-Client\Apartment-Client\bin\Debug\Apartment-Client.exe
+D:\Users\spenc\source\repos\Apartment-Client\Apartment-Client\bin\Debug\Apartment-Client.pdb
+D:\Users\spenc\source\repos\Apartment-Client\Apartment-Client\obj\Debug\Apartment-Client.csprojResolveAssemblyReference.cache
+D:\Users\spenc\source\repos\Apartment-Client\Apartment-Client\obj\Debug\Apartment_Client.Form1.resources
+D:\Users\spenc\source\repos\Apartment-Client\Apartment-Client\obj\Debug\Apartment_Client.Properties.Resources.resources
+D:\Users\spenc\source\repos\Apartment-Client\Apartment-Client\obj\Debug\Apartment-Client.csproj.GenerateResource.cache
+D:\Users\spenc\source\repos\Apartment-Client\Apartment-Client\obj\Debug\Apartment-Client.csproj.CoreCompileInputs.cache
+D:\Users\spenc\source\repos\Apartment-Client\Apartment-Client\obj\Debug\Apartment-Client.exe
+D:\Users\spenc\source\repos\Apartment-Client\Apartment-Client\obj\Debug\Apartment-Client.pdb
+C:\Users\braxt\Documents\560 VS Project\Apartment-Client.zip (Unzipped Files)\Apartment-Client\Apartment-Client\bin\Debug\Apartment-Client.exe.config
+C:\Users\braxt\Documents\560 VS Project\Apartment-Client.zip (Unzipped Files)\Apartment-Client\Apartment-Client\bin\Debug\Apartment-Client.exe
+C:\Users\braxt\Documents\560 VS Project\Apartment-Client.zip (Unzipped Files)\Apartment-Client\Apartment-Client\bin\Debug\Apartment-Client.pdb
+C:\Users\braxt\Documents\560 VS Project\Apartment-Client.zip (Unzipped Files)\Apartment-Client\Apartment-Client\obj\Debug\Apartment-Client.csprojAssemblyReference.cache
+C:\Users\braxt\Documents\560 VS Project\Apartment-Client.zip (Unzipped Files)\Apartment-Client\Apartment-Client\obj\Debug\Apartment_Client.Form1.resources
+C:\Users\braxt\Documents\560 VS Project\Apartment-Client.zip (Unzipped Files)\Apartment-Client\Apartment-Client\obj\Debug\Apartment_Client.Properties.Resources.resources
+C:\Users\braxt\Documents\560 VS Project\Apartment-Client.zip (Unzipped Files)\Apartment-Client\Apartment-Client\obj\Debug\Apartment-Client.csproj.GenerateResource.cache
+C:\Users\braxt\Documents\560 VS Project\Apartment-Client.zip (Unzipped Files)\Apartment-Client\Apartment-Client\obj\Debug\Apartment-Client.csproj.CoreCompileInputs.cache
+C:\Users\braxt\Documents\560 VS Project\Apartment-Client.zip (Unzipped Files)\Apartment-Client\Apartment-Client\obj\Debug\Apartment-Client.exe
+C:\Users\braxt\Documents\560 VS Project\Apartment-Client.zip (Unzipped Files)\Apartment-Client\Apartment-Client\obj\Debug\Apartment-Client.pdb
